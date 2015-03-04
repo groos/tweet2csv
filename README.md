@@ -1,7 +1,7 @@
 # tweet2csv
 
 #### tweet2csv is a script written in Python to query Twitter's search
-API and output the results as a CSV
+API and output the results as a CSV. The original has been forked to include updated credentials validation. The updated implementation also uses a different data output which includes the Twitter username. 
 
 ## Requirements
 
