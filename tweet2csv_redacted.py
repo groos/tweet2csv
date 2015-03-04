@@ -37,8 +37,8 @@ class UnicodeWriter:
 
 
 #creds
-auth = tweepy.OAuthHandler('x7yH1pZHCJWRGsGjv6q7Q', 
-							'11ZjpWLFpbeAeheyaliQXjNR9qr9d5NJdfcszRnWo')
+auth = tweepy.OAuthHandler('your_creds', 
+							'your_creds')
 auth.set_access_token('', 
 						'')
 
